@@ -2,5 +2,6 @@
   "id": "skatey",
   "displayName": "Skatey",
   "description": "An emo punk girl skateboarder with a stylized digital-pet look.",
+  "spriteVersionNumber": 2,
   "spritesheetPath": "spritesheet.webp"
 }

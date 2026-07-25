@@ -2,5 +2,6 @@
   "id": "capone",
   "displayName": "Capone",
   "description": "A stylized Codex digital pet resembling Al Capone, a Chicago gangster from the prohibition era.",
+  "spriteVersionNumber": 2,
   "spritesheetPath": "spritesheet.webp"
 }

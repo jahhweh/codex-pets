@@ -1,6 +1,7 @@
 {
-    "id":  "zach",
-    "displayName":  "Zach",
-    "description":  "A stylized toy mascot pet based on Zach\u0027s portrait photo, generated from OpenAI row strips and packed into the Codex pet atlas.",
-    "spritesheetPath":  "spritesheet.webp"
+  "id": "jahhweh-irl",
+  "displayName": "Jahhweh IRL",
+  "description": "A stylized toy mascot pet based on Jahhweh\u0027s portrait photo, generated from OpenAI row strips and packed into the Codex pet atlas.",
+  "spriteVersionNumber": 2,
+  "spritesheetPath": "spritesheet.webp"
 }

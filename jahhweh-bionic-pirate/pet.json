@@ -1,7 +1,7 @@
 ﻿{
-    "id":  "jahhweh",
-    "displayName":  "Jahhweh",
-    "description":  "A bionic Rastafari pirate companion.",
+    "id":  "jahhweh-bionic-pirate",
+    "displayName":  "Pirate Jahhweh",
+    "description":  "Jahhweh as a bionic Rastafari pirate.",
     "spriteVersionNumber":  2,
     "spritesheetPath":  "spritesheet.webp"
 }

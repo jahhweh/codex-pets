@@ -2,5 +2,6 @@
   "id": "shredder",
   "displayName": "Shredder",
   "description": "A compact Codex digital pet inspired by a heavy metal guitar player.",
+  "spriteVersionNumber": 2,
   "spritesheetPath": "spritesheet.webp"
 }

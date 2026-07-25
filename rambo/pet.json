@@ -2,5 +2,6 @@
   "id": "rambo",
   "displayName": "Rambo",
   "description": "A stylized 80s action-hero Codex digital pet inspired by Rambo, with rotating weapons and a large machine gun.",
+  "spriteVersionNumber": 2,
   "spritesheetPath": "spritesheet.webp"
 }

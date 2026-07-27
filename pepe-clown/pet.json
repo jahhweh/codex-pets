@@ -1,7 +1,7 @@
 {
-    "id":  "discord-pepe",
-    "displayName":  "Discord Pepe",
-    "description":  "A compact green frog-like meme pet with rainbow clown hair, a red round nose, a blue outfit, white bow tie, large expressive eyes, and a mischievous grin.",
+    "id":  "pepe-clown",
+    "displayName":  "Pepe Clown",
+    "description":  "Pepe clown, a.k.a. Honkler.",
     "spriteVersionNumber":  2,
     "spritesheetPath":  "spritesheet.webp"
 }

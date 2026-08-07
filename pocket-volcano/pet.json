@@ -1,0 +1,7 @@
+{
+  "id": "pocket-volcano",
+  "displayName": "Pocket Volcano",
+  "description": "A squashy clay volcano with glowing lava seams and an attached lava plume.",
+  "spriteVersionNumber": 2,
+  "spritesheetPath": "spritesheet.webp"
+}

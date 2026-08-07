@@ -1,0 +1,7 @@
+{
+  "id": "mushroom-wizard",
+  "displayName": "Mushroom Wizard",
+  "description": "A mushroom-headed wizard with a crooked staff and cap movement.",
+  "spriteVersionNumber": 2,
+  "spritesheetPath": "spritesheet.webp"
+}

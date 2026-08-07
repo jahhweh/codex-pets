@@ -1,0 +1,7 @@
+{
+  "id": "vibes-monitor",
+  "displayName": "Vibes Monitor",
+  "description": "A floating CRT monitor with antennae, knobs, and an animated screen face.",
+  "spriteVersionNumber": 2,
+  "spritesheetPath": "spritesheet.webp"
+}

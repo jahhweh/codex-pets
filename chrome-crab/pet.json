@@ -1,0 +1,7 @@
+{
+  "id": "chrome-crab",
+  "displayName": "Chrome Crab",
+  "description": "A chrome crab mechanic with a wrench claw and compact tools.",
+  "spriteVersionNumber": 2,
+  "spritesheetPath": "spritesheet.webp"
+}

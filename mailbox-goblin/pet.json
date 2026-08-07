@@ -1,0 +1,7 @@
+{
+  "id": "mailbox-goblin",
+  "displayName": "Mailbox Goblin",
+  "description": "A small goblin with an oversized mailbag and envelope-shaped silhouette cues.",
+  "spriteVersionNumber": 2,
+  "spritesheetPath": "spritesheet.webp"
+}

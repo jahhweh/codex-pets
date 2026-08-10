@@ -1,0 +1,7 @@
+{
+  "id": "skateboard-skeleton",
+  "displayName": "Skateboard Skeleton",
+  "description": "A cheerful skeleton whose skateboard drives its movement.",
+  "spriteVersionNumber": 2,
+  "spritesheetPath": "spritesheet.webp"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "pirate-parrot",
+  "displayName": "Pirate Parrot",
+  "description": "A storybook pirate parrot with a captain hat and folded treasure map.",
+  "spriteVersionNumber": 2,
+  "spritesheetPath": "spritesheet.webp"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "arcade-ghost",
+  "displayName": "Arcade Ghost",
+  "description": "A friendly neon arcade ghost with an attached joystick.",
+  "spriteVersionNumber": 2,
+  "spritesheetPath": "spritesheet.webp"
+}

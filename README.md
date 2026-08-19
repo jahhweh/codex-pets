@@ -17,6 +17,7 @@
 | Mailbox Goblin | <img src="mailbox-goblin/preview.webp" alt="Mailbox Goblin" width="96"> |
 | Mushroom Wizard | <img src="mushroom-wizard/preview.webp" alt="Mushroom Wizard" width="96"> |
 | Neon Muse | <img src="neon-muse/preview.webp" alt="Neon Muse" width="96"> |
+| Night-Shift Firefly Inspector | <img src="night-shift-firefly-inspector/preview.webp" alt="Night-Shift Firefly Inspector" width="96"> |
 | Pepe Clown | <img src="pepe-clown/preview.webp" alt="Pepe Clown" width="96"> |
 | Pirate Jahhweh | <img src="pirate-jahhweh/preview.webp" alt="Pirate Jahhweh" width="96"> |
 | Pirate Parrot | <img src="pirate-parrot/preview.webp" alt="Pirate Parrot" width="96"> |

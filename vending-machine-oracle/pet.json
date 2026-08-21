@@ -1,0 +1,7 @@
+{
+  "id": "vending-machine-oracle",
+  "displayName": "Vending Machine Oracle",
+  "description": "A bright vending-machine oracle mascot with a glowing cyan face, red rounded body, cream front panel, crystal prize window, side crank arm, and compact robot feet.",
+  "spriteVersionNumber": 2,
+  "spritesheetPath": "spritesheet.webp"
+}

@@ -31,6 +31,7 @@
 | Shredder | <img src="shredder/preview.webp" alt="Shredder" width="96"> |
 | Skateboard Skeleton | <img src="skateboard-skeleton/preview.webp" alt="Skateboard Skeleton" width="96"> |
 | Skatey | <img src="skatey/preview.webp" alt="Skatey" width="96"> |
+| Sewing Machine Stitcher | <img src="sewing-machine-stitcher/preview.webp" alt="Sewing Machine Stitcher" width="96"> |
 | Trenchcoat Crow | <img src="trenchcoat-crow/preview.webp" alt="Trenchcoat Crow" width="96"> |
 | V3R4 | <img src="V3R4/preview.webp" alt="V3R4" width="96"> |
 | Vibes Monitor | <img src="vibes-monitor/preview.webp" alt="Vibes Monitor" width="96"> |

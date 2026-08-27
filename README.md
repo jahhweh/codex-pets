@@ -37,10 +37,6 @@
 | Vibes Monitor | <img src="vibes-monitor/preview.webp" alt="Vibes Monitor" width="96"> |
 | Vending Machine Oracle | <img src="vending-machine-oracle/preview.webp" alt="Vending Machine Oracle" width="96"> |
 
-## Pet Creation Workflow
-
-New and rebuilt pets follow the [base-to-grid hatching workflow](PET_HATCHING_WORKFLOW.md): approve one canonical base, regenerate every row from it, extract every pose, place the poses into the 8x11 sprite grid, and verify the finished atlas visually and structurally before packaging.
-
 ## How To Install
 
 drag-and-drop folders into your `.codex/pets`.

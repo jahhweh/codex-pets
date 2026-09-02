@@ -1,7 +1,8 @@
 docs/
 output/
-tmp/
-pet-runs/
+/tmp/
+/**/tmp/
+/pet-runs/*
 /PET_HATCHING_WORKFLOW.md
 /PET_ANIMATION_SPECS.json
 /PET_RELEASE_CHECKLIST.md

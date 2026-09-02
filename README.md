@@ -7,6 +7,7 @@
 | Alien Rasta | <img src="alien-rasta/preview.webp" alt="Alien Rasta" width="96"> |
 | Anxious Cloud | <img src="anxious-cloud/preview.webp" alt="Anxious Cloud" width="96"> |
 | Blue Space Traveler | <img src="blue-space-traveler/preview.webp" alt="Blue Space Traveler" width="96"> |
+| Brass Signal Lantern | <img src="brass-signal-lantern/preview.webp" alt="Brass Signal Lantern" width="96"> |
 | Al Capone | <img src="capone/preview.webp" alt="Al Capone" width="96"> |
 | Chibi Jahhweh | <img src="chibi-jahhweh/preview.webp" alt="Chibi Jahhweh" width="96"> |
 | Chrome Crab | <img src="chrome-crab/preview.webp" alt="Chrome Crab" width="96"> |

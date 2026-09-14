@@ -1,0 +1,7 @@
+{
+  "id": "brass-signal-lantern",
+  "displayName": "Brass Signal Lantern",
+  "description": "A friendly brass lantern robot that signals progress with its attached flag.",
+  "spriteVersionNumber": 2,
+  "spritesheetPath": "spritesheet.webp"
+}
